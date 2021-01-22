@@ -9,7 +9,7 @@ lazy val common = project.in(file("common"))
 		"org.slf4j" % "slf4j-api" % "1.7.30",
 		"com.typesafe" % "config" % "1.4.1",
 		"org.scalatest" %% "scalatest" % "3.2.3" % Test,
-		"org.mockito" %% "mockito-scala" % "1.16.15"  ))
+		"org.mockito" %% "mockito-scala" % "1.16.15" % Test  ))
 	
 lazy val persistance = project.in(file("persistance")).settings(
 		libraryDependencies ++= Seq("com.typesafe.slick" %% "slick" % "3.3.3",
