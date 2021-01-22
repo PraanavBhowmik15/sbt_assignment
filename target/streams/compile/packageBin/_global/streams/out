@@ -1,7 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Desktop/assignment/sbt/sbt_assignment/target/scala-2.12/sbt-1.0/assignment-1.4.4.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/assignment/sbt/sbt_assignment/target/scala-2.12/sbt-1.0/classes/Hello$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/assignment/sbt/sbt_assignment/target/scala-2.12/sbt-1.0/classes/Hello.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
